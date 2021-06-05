@@ -1,21 +1,19 @@
 # Virtual-Assistant
-Đây là sản phẩm trợ lý ảo của bọn em. Nó có các chứng năng sau :
-* ứng dụng nhận dạng giọng nói được xây dựng dựa trên ý tưởng như trợ lý ảo siri ủa apple, google assistant
+Friday - Virtual Assistant
+* Ứng dụng nhận dạng giọng nói được xây dựng dựa trên ý tưởng như trợ lý ảo Siri của Apple, Google Assistant
 * Chương trình sẽ được thực thi khi khởi chạy file exe
-* ứng dụng phát triển với mục đích tương tác và điều khiển các ứng dụng trên laptop bằng giọng nói, người dùng chỉ cần nói những gì mình muốn và hệ thống sẽ làm theo những lệnh đó. Ví dụ:
-*
-+ Tạo 1 ghi chú và xem ghi chú đó
+* Ứng dụng phát triển với mục đích tương tác và điều khiển các ứng dụng trên laptop bằng giọng nói, người dùng chỉ cần nói những gì mình muốn và hệ thống sẽ làm theo những lệnh đó. Ví dụ:
+> Tạo 1 ghi chú và xem ghi chú đó
 
-+ Mở facebook, youtube,..
+>  Mở facebook, youtube,..
 
-+ Xem giờ, thông tin thời tiết trong ngày khi bạn cung cấp tên thành phố
+> Xem giờ, thông tin thời tiết trong ngày khi bạn cung cấp tên thành phố
 
-+ Tìm kiếm bằng google, youtube,..
+> Tìm kiếm bằng google, youtube,..
 
-Tất cả các tác vụ đều được thực hiện bằng giọng nói,
+* Tất cả các tác vụ đều được thực hiện bằng giọng nói:
 
-+ Thêm vào đó, ứng dụng sẽ show những yêu cầu mà người dùng vừa nói
+> Các yêu cầu, lời thoại của người dùng lẫn bot đều được hiển thị trên màn hình 
 
-+ Bot sẽ phản hồi lại bằng giọng nói, và show ra trên màn hình ứng dụng 
-
-Về phần giao diện chúng em sử dụng 2 thư viện tkinter và pyinstaller dể thiết kế giao diện chính cho sản phẩm của chúng em.
+* Giao diện được thiết kế bằng Tkinter, app được xây dựng bằng Pyinstaller:
+> Link tải ứng dụng: https://drive.google.com/file/d/1BmPEj0HgA4sKOl9pDurKucXOqZWWpFiV/view?usp=sharing
